@@ -16,4 +16,4 @@ caption = ""
 +++
 
 {{< readfromfile "/content/newslist.dat" 1000 >}} 
-<sub>Inspired by this [contribution](https://github.com/gcushen/hugo-academic/issues/1677).</sub>
+<sub>The News and Feed section was Inspired by [this contribution](https://github.com/gcushen/hugo-academic/issues/1677).</sub>
